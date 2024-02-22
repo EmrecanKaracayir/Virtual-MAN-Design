@@ -1,5 +1,7 @@
 # Virtual MAN Design
 
+A practice for building efficient/performant MAN using Packet Tracer
+
 ## Project Description
 
 The goal of our project is to create a network that connects two branches of an office in a city using Cisco Packet Tracer software. Our aim is to ensure that the network architecture supports maximum users and traffic load with minimum delay, all while keeping the cost of hardware equipment in mind.
